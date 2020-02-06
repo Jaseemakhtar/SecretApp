@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecretApp</string>
+    <string name="dial_to_launch">To open with secret code dial *#*#7313#*#* from your dialer</string>
+    <string name="opened_with_secret_code">App was opened with secret code!</string>
+</resources>
